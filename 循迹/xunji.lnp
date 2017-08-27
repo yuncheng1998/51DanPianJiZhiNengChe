@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"main.obj" 
+TO "xunji" 
+RAMSIZE(256) 
