@@ -1,0 +1,198 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+D:\study-USTB\单片机小车\程序设计\超声波避障\Main.uvproj
+Project File Date:  08/27/2017
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+linking...
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ?C_START
+    MODULE:  STARTUP.obj (?C_STARTUP)
+    ADDRESS: 000DH
+Program Size: data=9.0 xdata=0 code=15
+"Main" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+main.c(1): warning C318: can't open file 'at89x51.h'
+head.h(1): warning C318: can't open file 'at89x51.h'
+HEAD.H(7): error C202: 'P1': undefined identifier
+HEAD.H(8): error C202: 'P1': undefined identifier
+HEAD.H(9): error C202: 'P1': undefined identifier
+HEAD.H(10): error C202: 'P1': undefined identifier
+HEAD.H(11): error C202: 'P1': undefined identifier
+HEAD.H(12): error C202: 'P1': undefined identifier
+HEAD.H(14): error C202: 'P2': undefined identifier
+HEAD.H(32): error C202: 'push_val_left': undefined identifier
+HEAD.H(33): error C202: 'push_val_right': undefined identifier
+HEAD.H(34): error C202: 'P1_2': undefined identifier
+HEAD.H(35): error C202: 'P1_4': undefined identifier
+HEAD.H(38): error C202: 'push_val_left': undefined identifier
+HEAD.H(39): error C202: 'push_val_right': undefined identifier
+HEAD.H(40): error C202: 'P1_2': undefined identifier
+HEAD.H(41): error C202: 'P1_4': undefined identifier
+HEAD.H(44): error C202: 'push_val_left': undefined identifier
+HEAD.H(45): error C202: 'push_val_right': undefined identifier
+HEAD.H(46): error C202: 'P1_2': undefined identifier
+HEAD.H(47): error C202: 'P1_4': undefined identifier
+HEAD.H(50): error C202: 'push_val_left': undefined identifier
+HEAD.H(51): error C202: 'push_val_right': undefined identifier
+HEAD.H(52): error C202: 'P1_4': undefined identifier
+HEAD.H(53): error C202: 'P1_2': undefined identifier
+HEAD.H(56): error C202: 'P1_4': undefined identifier
+HEAD.H(57): error C202: 'P1_2': undefined identifier
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+head.h(1): warning C318: can't open file 'at89x51.h'
+HEAD.H(32): error C202: 'push_val_left': undefined identifier
+HEAD.H(33): error C202: 'push_val_right': undefined identifier
+HEAD.H(38): error C202: 'push_val_left': undefined identifier
+HEAD.H(39): error C202: 'push_val_right': undefined identifier
+HEAD.H(44): error C202: 'push_val_left': undefined identifier
+HEAD.H(45): error C202: 'push_val_right': undefined identifier
+HEAD.H(50): error C202: 'push_val_left': undefined identifier
+HEAD.H(51): error C202: 'push_val_right': undefined identifier
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+head.h(1): warning C318: can't open file 'at89x51.h'
+HEAD.H(32): error C202: 'push_val_left': undefined identifier
+HEAD.H(33): error C202: 'push_val_right': undefined identifier
+HEAD.H(38): error C202: 'push_val_left': undefined identifier
+HEAD.H(39): error C202: 'push_val_right': undefined identifier
+HEAD.H(44): error C202: 'push_val_left': undefined identifier
+HEAD.H(45): error C202: 'push_val_right': undefined identifier
+HEAD.H(50): error C202: 'push_val_left': undefined identifier
+HEAD.H(51): error C202: 'push_val_right': undefined identifier
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+HEAD.H(32): error C202: 'push_val_left': undefined identifier
+HEAD.H(33): error C202: 'push_val_right': undefined identifier
+HEAD.H(38): error C202: 'push_val_left': undefined identifier
+HEAD.H(39): error C202: 'push_val_right': undefined identifier
+HEAD.H(44): error C202: 'push_val_left': undefined identifier
+HEAD.H(45): error C202: 'push_val_right': undefined identifier
+HEAD.H(50): error C202: 'push_val_left': undefined identifier
+HEAD.H(51): error C202: 'push_val_right': undefined identifier
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+HEAD.H(74): warning C206: '_nop': missing function-prototype
+HEAD.H(74): error C141: syntax error near '_'
+HEAD.H(74): error C202: '_': undefined identifier
+HEAD.H(78): error C141: syntax error near '}', expected ';'
+HEAD.H(88): error C141: syntax error near '}', expected ';'
+HEAD.H(109): error C141: syntax error near 'turnLeft'
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+HEAD.H(78): error C141: syntax error near '}', expected ';'
+HEAD.H(88): error C141: syntax error near '}', expected ';'
+HEAD.H(109): error C141: syntax error near 'turnLeft'
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+HEAD.H(88): error C141: syntax error near '}', expected ';'
+HEAD.H(109): error C141: syntax error near 'turnLeft'
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+HEAD.H(159): warning C206: 'pwm_out_left_moto': missing function-prototype
+HEAD.H(160): warning C206: 'pwm_out_right_moto': missing function-prototype
+MAIN.C(11): error C202: 'ET': undefined identifier
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+HEAD.H(69): error C202: 'Left_stop': undefined identifier
+HEAD.H(71): error C202: 'Left_moto_pwm': undefined identifier
+HEAD.H(74): error C202: 'Left_moto_pwm': undefined identifier
+HEAD.H(80): error C202: 'Left_moto_pwm': undefined identifier
+HEAD.H(85): error C202: 'Right_stop': undefined identifier
+HEAD.H(87): error C202: 'Right_moto_pwm': undefined identifier
+HEAD.H(90): error C202: 'Right_moto_pwm': undefined identifier
+HEAD.H(96): error C202: 'Right_moto_pwm': undefined identifier
+MAIN.C(11): error C202: 'ET': undefined identifier
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?TURNRIGHT?MAIN
+Program Size: data=25.4 xdata=0 code=1445
+"Main" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?TURNRIGHT?MAIN
+Program Size: data=25.4 xdata=0 code=1445
+creating hex file from "Main"...
+"Main" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?TURNRIGHT?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?PWM_OUT_LEFT_MOTO?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?PWM_OUT_RIGHT_MOTO?MAIN
+Program Size: data=25.4 xdata=0 code=1409
+creating hex file from "Main"...
+"Main" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?TURNRIGHT?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?PWM_OUT_LEFT_MOTO?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?PWM_OUT_RIGHT_MOTO?MAIN
+Program Size: data=25.4 xdata=0 code=1409
+creating hex file from "Main"...
+"Main" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?TURNRIGHT?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?PWM_OUT_LEFT_MOTO?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?PWM_OUT_RIGHT_MOTO?MAIN
+Program Size: data=25.4 xdata=0 code=1409
+creating hex file from "Main"...
+"Main" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?TURNRIGHT?MAIN
+Program Size: data=25.4 xdata=0 code=1445
+creating hex file from "Main"...
+"Main" - 0 Error(s), 1 Warning(s).
