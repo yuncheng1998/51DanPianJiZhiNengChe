@@ -3,10 +3,19 @@
 <pre>
 <h1>礦ision Build Log</h1>
 <h2>Project:</h2>
-D:\study-USTB\单片机小车\程序设计\红外避障\bizhang.uvproj
+D:\python\oschina\51DanPianJiZhiNenChe\红外避障\bizhang.uvproj
 Project File Date:  08/06/2017
 
 <h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?STOP?MAIN
+Program Size: data=15.0 xdata=0 code=500
+creating hex file from "bizhang"...
+"bizhang" - 0 Error(s), 1 Warning(s).
 Build target 'Target 1'
 assembling STARTUP.A51...
 compiling main.c...
