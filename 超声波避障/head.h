@@ -136,7 +136,7 @@ void Count(void){
   TL1 = 0;
   S = time*2;
   S = S*0.17;
-  if(S <= 400){
+  if(S <= 200){
     if(turn_right_flag != 1){
       stop();
       Delay1ms(5);    //保护程序
@@ -148,7 +148,7 @@ void Count(void){
     backRun();
     Delay1ms(300);
     turnLeft();
-    Delay1ms(400);
+    Delay1ms(250);
   }
   else{
     turn_right_flag = 0;
